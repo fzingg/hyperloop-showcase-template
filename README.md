@@ -1,4 +1,4 @@
-# HyperLoop Showcase Rails 5.0.1 generator template
+# HyperLoop Showcase Rails 5.0.1 template generator
 
 This template will generate and setup automatically the [HyperLoop Showcase](https://github.com/fzingg/hyperloop-showcase) application created with that tutorial.
 
@@ -20,7 +20,7 @@ git clone "https://github.com/fzingg/hyperloop-showcase-template.git"
 Run the `Rails new` command with the path to the `template.rb` file
 
 ```
-rails new hyperloop-showcase -d postgresql --skip-bundle -m ~/rails/hyperloop-showcase-template/template.rb
+rails new hyperloop-showcase --skip-bundle -m /path-to/hyperloop-showcase-template/template.rb
 ```
 
 Just watch the template and all scripts running and you will see a prompt asking you database informations :
@@ -29,10 +29,20 @@ Just watch the template and all scripts running and you will see a prompt asking
 + **Database-username ?** [Your database username]
 + **Database-password ?** [Your database password]
 
+Note : the app is configured to work with PostgreSQL DB. If you want to  use another DB, you can edit the `_gemfile.rb` to add the gem and the `_database.rb` to edit the rails database config file.
+
 ### Step 3 : Run the HyperLoop Showcase App
 
 ```
-Rails start
+rails start
 ```
+
+or if you don't want to refresh at every code modification, run the app with the **HyperReact Hot Reloader** :
+
+```
+bundle exec foreman start
+```
+
+And browse `http://localhost:3000`
 
 
