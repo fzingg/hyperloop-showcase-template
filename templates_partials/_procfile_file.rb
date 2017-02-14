@@ -1,3 +1,3 @@
 puts "Copy Procfile files ...".magenta
 
-run "cp ../hyperloop-showcase-templates/hyperloop-showcase/Procfile ."
+run "cp #{File.dirname(__FILE__)}/../hyperloop-showcase/Procfile ."

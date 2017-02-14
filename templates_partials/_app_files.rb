@@ -1,3 +1,3 @@
 puts "Copy app files ...".magenta
 
-run "cp -r ../hyperloop-showcase-templates/hyperloop-showcase/app/* app/"
+run "cp -r #{File.dirname(__FILE__)}/../hyperloop-showcase/app/* app/"

@@ -1,6 +1,6 @@
 puts "Copy config files ...".magenta
 
-run "cp -r ../hyperloop-showcase-templates/hyperloop-showcase/config/* config/"
+run "cp -r #{File.dirname(__FILE__)}/../hyperloop-showcase/config/* config/"
 
 puts "modifying application.rb files ...".magenta
 
