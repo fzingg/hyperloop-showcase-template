@@ -10,7 +10,7 @@ It requires that Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0) are
 
 Install the gem `colored`
 ```
-gem install colored`
+gem install colored
 ```
 
 ## Using the application template
