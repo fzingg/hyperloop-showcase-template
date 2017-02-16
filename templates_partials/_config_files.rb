@@ -8,9 +8,7 @@ inject_into_file 'config/application.rb', :after => "class Application < Rails::
 <<-RUBY
 	\n
   config.eager_load_paths += %W(\#{config.root}/app/models/public)
-  config.eager_load_paths += %W(\#{config.root}/app/views/components)
   config.autoload_paths += %W(\#{config.root}/app/models/public)
-  config.autoload_paths += %W(\#{config.root}/app/views/components)
   config.assets.paths << ::Rails.root.join('app', 'models').to_s
 
 	RUBY
