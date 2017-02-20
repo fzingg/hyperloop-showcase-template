@@ -2,7 +2,7 @@
 
 ## Preamble
 
-This tutorial is the first chapter of a serie containing 4 chapters :
+This tutorial is the second chapter of a serie containing 4 chapters :
 
 + Chapter 1 : [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) 
 + Chapter 2 : [Hyperloop Showcase Template](https://github.com/fzingg/hyperloop-showcase-template) 
