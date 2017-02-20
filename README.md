@@ -1,11 +1,5 @@
 # Hyperloop Showcase Rails 5.0.1 template generator
 
-This template will generate and automatically setup the application created with the [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) tutorial.
-
-We advise you to follow that tutorial if you setup a Hyperloop application for the first time. Then when developing your own application in the future you can use this template in order to quickly setup your basic Hyperloop environment.
-
-It requires that Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0) are installed. Please see their websites for installation instructions.
-
 ## Preamble
 
 This tutorial is the first chapter of a serie containing 4 chapters :
@@ -16,6 +10,14 @@ This tutorial is the first chapter of a serie containing 4 chapters :
 + Chapter 4 : [Hyperloop Showcase with HEROKU (Fast way)](https://github.com/fzingg/hyperloop-showcase-template-heroku) 
 
 For more information : [HyperLoop Web site](http://ruby-hyperloop.io/)
+
+## Introduction
+
+This template will generate and automatically setup the application created with the [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) tutorial.
+
+We advise you to follow that tutorial if you setup a Hyperloop application for the first time. Then when developing your own application in the future you can use this template in order to quickly setup your basic Hyperloop environment.
+
+It requires that Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0) are installed. Please see their websites for installation instructions.
 
 ## Preliminary step
 
