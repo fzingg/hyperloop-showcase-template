@@ -6,6 +6,17 @@ We advise you to follow that tutorial if you setup a Hyperloop application for t
 
 It requires that Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0) are installed. Please see their websites for installation instructions.
 
+## Preamble
+
+This tutorial is the first chapter of a serie containing 4 chapters :
+
++ Chapter 1 : [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) 
++ Chapter 2 : [Hyperloop Showcase Template](https://github.com/fzingg/hyperloop-showcase-template) 
++ Chapter 3 : [Hyperloop Showcase with HEROKU (Debug way)](https://github.com/fzingg/hyperloop-showcase-heroku) 
++ Chapter 4 : [Hyperloop Showcase with HEROKU (Fast way)](https://github.com/fzingg/hyperloop-showcase-template-heroku) 
+
+For more information : [HyperLoop Web site](http://ruby-hyperloop.io/)
+
 ## Preliminary step
 
 Install the gem `colored`
