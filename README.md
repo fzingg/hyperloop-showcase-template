@@ -32,7 +32,7 @@ Note: the app is configured to work with PostgreSQL DB. If you want to  use anot
 
 ### Step 3: Run the HyperLoop Showcase App
 
-Got to your app directory: `cd hyperloop-showcase` then run
+Go to your app directory: `cd hyperloop-showcase` then run
 
 ```
 rails start
@@ -44,6 +44,6 @@ or if you don't want to refresh at every code modification, run the app with the
 bundle exec foreman start
 ```
 
-and browse to `http://localhost:3000`
+and browse to `http://localhost:3000`.
 
 
