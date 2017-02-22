@@ -4,10 +4,10 @@
 
 This tutorial is the second chapter of a serie containing 4 chapters :
 
-+ Chapter 1 : [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) 
-+ Chapter 2 : [Hyperloop Showcase Template](https://github.com/fzingg/hyperloop-showcase-template) 
-+ Chapter 3 : [Hyperloop Showcase with HEROKU (Debug way)](https://github.com/fzingg/hyperloop-showcase-heroku) 
-+ Chapter 4 : [Hyperloop Showcase with HEROKU (Fast way)](https://github.com/fzingg/hyperloop-showcase-template-heroku) 
++ Chapter 1: [Hyperloop Showcase](https://github.com/fzingg/hyperloop-showcase) 
++ Chapter 2: [Hyperloop Showcase Template](https://github.com/fzingg/hyperloop-showcase-template) 
++ Chapter 3: [Hyperloop Showcase with HEROKU (Debug way)](https://github.com/fzingg/hyperloop-showcase-heroku) 
++ Chapter 4: [Hyperloop Showcase with HEROKU (Fast way)](https://github.com/fzingg/hyperloop-showcase-template-heroku) 
 
 For more information : [HyperLoop Web site](http://ruby-hyperloop.io/)
 
@@ -17,7 +17,7 @@ This template will generate and automatically set up the application created wit
 
 We advise you to follow that tutorial if this is your first time setting up a Hyperloop application. When developing your own application in the future you can then use this template to quickly set up your basic HyperLoop environment.
   
- +The template generator requires Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0). Please see their websites for installation instructions.
+The template generator requires Ruby (>= 2.3.1), Rails (>= 5.0.1), NPM and Webpack (>= 2.0). Please see their websites for installation instructions.
 
 ## Preliminary step
 
